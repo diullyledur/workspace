@@ -1,0 +1,19 @@
+{
+  "name": "planilha",
+  "version": "1.0.0",
+  "description": "projeto warren tech academy",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/diullyledur/Planilha-.git)"
+  },
+  "author": "Diully",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
